@@ -21,3 +21,5 @@ tl.to("#page1",{
     scale:1,
     duration:0.7
 })
+
+
